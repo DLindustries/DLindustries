@@ -6,8 +6,7 @@
     private static final String LEARNING = "Backend Development";
 
     private static final String[] SKILLS = {
-        "Java", "Minecraft Modding", "Reverse Engineering", 
-        "Networking", "Backend Development (learning)", "System Design"
+        "Java", "Minecraft Modding",  "System Design", "hack client development"
     };
 
     private static final String GITHUB = "https://github.com/dlinustries";
@@ -26,3 +25,6 @@
         }
     }
 }
+
+
+<a href="https://discord.gg/yynpznJVkC"><img src="https://invidget.switchblade.xyz/yynpznJVkC" alt="https://discord.gg/yynpznJVkC"/></a><br>
